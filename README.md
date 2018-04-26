@@ -6,3 +6,5 @@ O Docker permite a verdadeira independência entre aplicativo e infraestrutura, 
 
 A Secretaria Municipal de Educação de São Paulo possui dezenas de sistemas sob sua tutela, seja para uso dos professores quanto para uso administrativo. Cada um com suas peculiaridades e requisitos de sistema diferentes, produzidos e mantidos por diferentes empresas, em diferentes sistemas operacionais. Cada dia que passa fica mais complicado manter tudo em ordem e não criar dependências entre equipes. A utilização de containers vem para ser o primeiro passo de muitos que irão facilitar o gerenciamento desses sistemas e iniciar um processo de padronização para que futuramente seja mais fácil replicar ambientes e compartilhar arquivos.
 
+[Processo de adoção e instalação do docker na SME](https://github.com/prefeiturasp/SME-Docker/wiki/Processo-de-ado%C3%A7%C3%A3o-do-Docker-na-SME)
+
