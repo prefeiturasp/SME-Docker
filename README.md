@@ -2,7 +2,7 @@
 
 # Docker
 
-O Docker permite a verdadeira independência entre aplicativo e infraestrutura, desenvolvedores e operações de TI para que possam desbloquear seu potencial e criar um modelo para melhor colaboração e inovação. O Docker possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um container, e a partir desse momento o ambiente inteiro torna-se portável para qualquer outro Host que contenha o Docker instalado. Veja mais informações [aqui](https://www.docker.com/what-docker) ou [aqui](https://www.mundodocker.com.br/o-que-e-docker/).
+O Docker permite a verdadeira independência entre aplicativo e infraestrutura, desenvolvedores e operações de TI para que possam desbloquear seu potencial e criar um modelo para melhor colaboração e inovação. O Docker possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um container, e a partir desse momento o ambiente inteiro torna-se portável para qualquer outro Host que contenha o Docker instalado. Veja mais informações [aqui](https://www.docker.com/what-docker) e [aqui](https://www.mundodocker.com.br/o-que-e-docker/).
 
 ### Porque começar usar docker nas aplicações da SME?
 
