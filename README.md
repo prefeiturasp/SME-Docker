@@ -1,3 +1,5 @@
+
+
 ### Docker
 
 O Docker permite a verdadeira independência entre aplicativo e infraestrutura, desenvolvedores e operações de TI para que possam desbloquear seu potencial e criar um modelo para melhor colaboração e inovação. O Docker possibilita o empacotamento de uma aplicação ou ambiente inteiro dentro de um container, e a partir desse momento o ambiente inteiro torna-se portável para qualquer outro Host que contenha o Docker instalado. Veja [aqui](https://www.docker.com/what-docker) ou [aqui](https://www.mundodocker.com.br/o-que-e-docker/).
@@ -34,6 +36,15 @@ Por fim certifique-se ele é iniciado quando o servidor reinicia
 `sudo systemctl enable docker`
 
 Pronto, agora já é possível utilizar docker nas suas aplicações. Enjoy!
+
+
+# Roadmap
+https://docs.docker.com/docker-hub/builds/
+
+https://docs.docker.com/registry/
+
+https://docs.docker.com/engine/swarm/
+
 
 Para saber quais sistemas estão utilizando docker e como isso foi feito, visite a nossa wiki: 
 
