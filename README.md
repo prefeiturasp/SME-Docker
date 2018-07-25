@@ -13,7 +13,7 @@ A Secretaria Municipal de Educação de São Paulo possui dezenas de sistemas so
 * 64-bit CentOS 7
 * Acesso como usuário administrador 
    
-###  Instalação
+###  Instalação Docker
 
 Atualizar os pacotes do SO 
 
@@ -37,6 +37,20 @@ Por fim certifique-se ele é iniciado quando o servidor reinicia
 
 Pronto, agora já é possível utilizar docker nas suas aplicações. Enjoy!
 
+
+### Instalação docker-compose
+
+Faça instalação da última versão do docker-compose
+
+` sudo curl -L https://github.com/docker/compose/releases/download/1.21.2/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose `
+
+Aplique as permissões
+
+` sudo chmod +x /usr/local/bin/docker-compose `
+
+Teste a instalação
+
+` docker-compose --version `
 
 # Roadmap
 https://docs.docker.com/docker-hub/builds/
