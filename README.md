@@ -59,6 +59,8 @@ https://docs.docker.com/registry/
 
 https://docs.docker.com/engine/swarm/
 
+https://codefresh.io/docker-tutorial/not-ignore-dockerignore/
+
 
 Para saber quais sistemas estão utilizando docker e como isso foi feito, visite a nossa wiki: 
 
