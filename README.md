@@ -52,6 +52,26 @@ Teste a instalação
 
 ` docker-compose --version `
 
+### Troubleshooting
+
+#### Conflito de rede
+
+Por padrão o Docker utiliza a rede 172.16.0.0/12. Caso este range já esteja em uso, será necessário alterar.
+
+Alterando a rede docker0
+
+` sudo vi /etc/docker/daemon.json `
+
+Adicione:
+
+` {
+  "bip": "10.0.0.1/24"
+} `
+
+Criando uma rede
+
+` docker network create app --driver bridge --subnet 10.0.1.0/24 `
+
 # Roadmap
 https://docs.docker.com/docker-hub/builds/
 
