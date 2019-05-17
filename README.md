@@ -52,6 +52,12 @@ Teste a instalação
 
 ` docker-compose --version `
 
+### Configuração para pull de repositório local
+
+Colocar o certificado digital (ca.crt) do repositório local no diretório:
+
+` /etc/docker/certs.d/{endereço do repositório local:porta}/ `
+
 ### Troubleshooting
 
 #### Conflito de rede
