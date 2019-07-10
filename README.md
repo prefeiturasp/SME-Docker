@@ -87,6 +87,15 @@ https://docs.docker.com/engine/swarm/
 
 https://codefresh.io/docker-tutorial/not-ignore-dockerignore/
 
+Boas Práticas:
+
+1. Uma aplicação por Container;
+2. Padrão de nome de imagem + Versionamento;
+3. Build Cache;
+4. Shutdown handling;
+5. Otimização das imagens.
+
+https://searchmicroservices.techtarget.com/tip/5-tips-to-help-effectively-manage-container-components?src=5905252&asrc=EM_ERU_113806635&utm_content=eru-rd2-rcpF&utm_medium=EM&utm_source=ERU&utm_campaign=20190603_ERU%20Transmission%20for%2006/03/2019%20(UserUniverse:%20546039)
 
 Para saber quais sistemas estão utilizando docker e como isso foi feito, visite a nossa wiki: 
 
